@@ -1,3 +1,9 @@
+### 💖&ensp;Access Source Code [(FAQ)](https://github.com/JohannesMilke/sponsorware "FAQ")
+
+You need to click [REQUEST](https://johannesmilke.com/#/request "REQUEST") first, before you will get access to [THIS Source Code](https://github.com/JohannesMilke-Sponsors/checkbox_example "THIS Source Code") and of all my other Flutter Videos.
+
+[<img alt="JohannesMilke | REQUEST" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" />](https://johannesmilke.com/#/request "REQUEST")&ensp;[<img alt="JohannesMilke | ACCESS" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_access.png?alt=media" />](https://github.com/JohannesMilke-Sponsors/checkbox_example "ACCESS")
+
 # Flutter Tutorial - CheckBox List & CheckBox Group
 [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
@@ -9,12 +15,6 @@
 [![GitHub JohannesMilke](https://img.shields.io/github/followers/JohannesMilke?label=follow&style=social)](https://github.com/JohannesMilke)
 
 Create a Flutter CheckBox List or a Flutter CheckBox Group to toggle single & multiple CheckBoxes in your Flutter app.
-
-### 💖&ensp;Access Source Code [(FAQ)](https://github.com/JohannesMilke/sponsorware "FAQ")
-
-You need to click [REQUEST](https://johannesmilke.com/#/request "REQUEST") first, before you will get access to [THIS Source Code](https://github.com/JohannesMilke-Sponsors/checkbox_example "THIS Source Code") and of all my other Flutter Videos.
-
-[<img alt="JohannesMilke | REQUEST" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" />](https://johannesmilke.com/#/request "REQUEST")&ensp;[<img alt="JohannesMilke | ACCESS" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_access.png?alt=media" />](https://github.com/JohannesMilke-Sponsors/checkbox_example "ACCESS")
 
 ### ✌&ensp;Preview
 
